@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.video-side-content {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    border-top: 1px solid grey;
+}
+
+.video-contents {
+    display: inline-block;
+    margin-left: 125px;
+}
+
+.main {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.info {
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    margin: 10px 15px;
+}
+
+.image1 {
+    width: 375px;
+    cursor: pointer;
+}
+
+.profile1 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.icon {
+    border-radius: 20px;
+}
+
+.content {
+    display: inline-block;
+    margin-left: 17px;
+}
+
+.line1 {
+    margin-left: 10px;
+    margin-top: 15px;
+    width: 250px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+.line2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 550;
+}
+
+.line3 {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.image2 {
+    width: 375px;
+}
+
+.profile2 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.profile3 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.image3 {
+    width: 375px;
+}
+
+.profile4 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.image4 {
+    width: 375px;
+}
+
+.profile5 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.image5 {
+    width: 375px;
+}
+
+.profile6 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.image6 {
+    width: 375px;
+}
+
+.profile7 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.image7 {
+    width: 375px;
+}
+
+.profile8 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.image8 {
+    width: 375px;
+}
+
+.profile9 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.image9 {
+    width: 375px;
+}
+
+.profile10 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.image10 {
+    width: 375px;
+}
+
+.profile11 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.image11 {
+    width: 375px;
+}
+
+.profile12 {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 80px;
+}
+
+.image12 {
+    width: 375px;
+}
+
+.icon1 {
+    border-radius: 150px;
+}
+
+.icon2 {
+    border-radius: 150px;
+}
+
+.icon3 {
+    border-radius: 150px;
+}
+
+.icon4 {
+    border-radius: 150px;
+}
+
+.icon11 {
+    border-radius: 150px;
+}
+
+.icon9 {
+    border-radius: 150px;
+}
+
+.icon8 {
+    border-radius: 150px;
+}
+
+.icon7 {
+    border-radius: 150px;
+}
+
+.icon12 {
+    border-radius: 150px;
+}
